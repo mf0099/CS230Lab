@@ -1,0 +1,42 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: 'center';
+}
+
+p{
+    color: rgb(69, 88, 46);
+    font-style: italic;
+}
+
+.about{
+    background-color: sandybrown;
+    padding: 8px;
+
+}
+
+img{
+  height: 120px;
+  width: 120px;
+}
+
+.column{
+    float: left;
+    margin-right: 16px;
+    margin: 10px;
+    width: 22%;
+}
+
+.card{
+    box-shadow: 6px 4px 8px 0 #b3b3b3f5;
+    padding: 0 16px 0 10px;
+}
+
+h1{
+    color: white;
+    font-family: sans-serif;
+}
+
+h2{
+    color:thistle;
+    font-style: oblique;
+}
