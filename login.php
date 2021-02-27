@@ -40,7 +40,7 @@ require 'includes/header.php';
                 <form class="form-signin" action="includes/login-helper.php" method="post">
 
                     <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
-                    <p class="hint-text">Sign in!</p>
+                    <p class="hint-text">Enter your username/email and password below</p>
 
                     <div class="form-group">
                         <input type="text" class="form-control" name="uname-email" placeholder="Username/Email" autofocus
