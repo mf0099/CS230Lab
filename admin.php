@@ -19,7 +19,7 @@ require 'includes/dbhandler.php';
             reader.onload = function(e) {
                 document.querySelector('#gallery-display').setAttribute('src', e.target.result);
             }
-            reader.readAsDataERL(e.files[0]);
+            reader.readAsDataURL(e.files[0]);
         }
     }
     </script>

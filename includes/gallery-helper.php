@@ -14,7 +14,7 @@ if(isset($_POST['gallery-submit'])){
     $file_size = $file['size'];
 
     $title = $_POST['title'];
-    $decript = $_POST['descript'];
+    $descript = $_POST['descript'];
     
     $ext = strtolower(pathinfo($file_name, PATHINFO_EXTENSION));
 
