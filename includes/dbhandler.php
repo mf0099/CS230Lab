@@ -2,7 +2,7 @@
 
 $servename = "localhost";
 $DBuname = "phpmyadmin";
-$DBPass = "Frannie2013";
+$DBPass = "cs230lab";
 $DBname = "CS230";
 
 $conn = mysqli_connect($servename, $DBuname, $DBPass, $DBname);
