@@ -1,6 +1,6 @@
-
+<php
 require 'includes/header.php';
-
+?php>
 
 <body>
     <link rel="stylesheet" href ="css/about.css">
