@@ -1,8 +1,8 @@
-<php
+<?php
 require 'includes/header.php';
-?php>
+?>
 
-<body>
+<main>
     <link rel="stylesheet" href ="css/about.css">
 
     <div class="about">
@@ -55,4 +55,4 @@ require 'includes/header.php';
             </div>
         </div>
     </div>
-</body>
+</main>
